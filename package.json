@@ -14,6 +14,6 @@
 		"packages-update": "wp-scripts packages-update"
 	},
 	"devDependencies": {
-		"@wordpress/scripts": "^7.1.2"
+		"@wordpress/scripts": "^7.2.0"
 	}
 }
