@@ -2,7 +2,7 @@
 /**
  * Plugin Name:     Block Entities Example
  * Plugin URI       https://github.com/Mamaduka/block-entities-example
- * Description:     Example block written with ESNext standard and JSX support – build step required.
+ * Description:
  * Version:         0.1.0
  * Author:          George Mamadashvili
  * Author URI:      https://mamaduka.com/
